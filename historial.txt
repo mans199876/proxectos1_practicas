@@ -1,0 +1,41 @@
+commit 99f368e7f5cca008ecd30e1422c137c7f3f14749
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:49:19 2025 +0100
+
+    version 6
+
+commit 2af9ee93324c020eff482c4a552347dba2db0656
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:29:30 2025 +0100
+
+    version 5.1
+
+commit a033fb9d5409d076c1dff1ab74354fbffd4776bc
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:20:40 2025 +0100
+
+    version 5
+
+commit 989e82f8ca8d6bba94f46a49ad54fb5840c27b7f
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:19:05 2025 +0100
+
+    version 4
+
+commit 1406457827d8d08506b0c5299cfd7cf91688cd01
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:17:18 2025 +0100
+
+    version 3
+
+commit fd74f99376eef317acfc0e67fd07029e85e154f6
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:13:49 2025 +0100
+
+    version 2
+
+commit 2c524dd8345a6d98e3b0909e048e14e0a190ea60
+Author: mans199876 <mans199876@gmail.com>
+Date:   Thu Feb 6 10:13:01 2025 +0100
+
+    version 1 de mis pruebas, solo he creado pruebas.txt
